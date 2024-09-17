@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I have done my graduation in Systems Analysis in 2018. I have given a break in my career from 2018 to 2023 to dedicate work in other areas like digital marketing and ads.<br><br>In August 2024 I start to study Ruby on Rails and now I'm putting all my efforts to learn this fantastic language programming.<br><br>📋Hard Skills:<br><br>✅ Ruby on Rails<br>✅ SQLite<br>✅ Docker<br>✅ Git<br>✅ Linux<br>✅ HTML5<br>✅ CSS3<br>✅ Javascript<br><br>📋Soft Skills:<br><br>✅ Fast learner<br>✅ Good communication<br>✅ Active listening<br>✅ Good organization and management<br>✅ Ethics<br>✅ Resilience<br>✅ Logical thinking and problem-solving</p>
+<p align="left">I have done my graduation in Systems Analysis in 2018. I have given a break in my career from 2018 to 2023 to dedicate work in other areas like digital marketing and ads.<br><br>In August 2024 I start to study Ruby on Rails and now I'm putting all my efforts to learn this fantastic language programming.<br><br>📋Hard Skills:<br><br>✅ Ruby on Rails<br>✅ PostgreSQL<br>✅ HTML5<br>✅ CSS3<br>✅ Javascript<br>✅ Git<br><br>📋Soft Skills:<br><br>✅ Fast learner<br>✅ Good communication<br>✅ Active listening<br>✅ Good organization and management<br>✅ Ethics<br>✅ Resilience<br>✅ Logical thinking and problem-solving</p>
 
 ###
 
