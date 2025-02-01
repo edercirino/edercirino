@@ -40,9 +40,9 @@
 
 <p align="left">Back-end Developer specialized in Ruby on Rails
 
-I always ask for myself about how everything works in the background and I felt attracted to the I.T area, to know how the softwares works.
+I always ask myself about how everything works in the background and I felt attracted to the I.T area, to know how the softwares works.
 
-I'm focused to develope scalable and robust systems using Ruby on Rails and my objetive is not only "write lines of code" but automaticate the problem solution through software development.
+I'm focused on developing scalable and robust systems using Ruby on Rails and my objective is not only “to write lines of code" but automaticate the problem solution through software development.
 
 Technical Abilities:
 - Core Back-end Technologies: Ruby, Ruby on Rails, CI/CD, Sidekiq, Docker.
