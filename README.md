@@ -38,7 +38,27 @@
 
 ###
 
-<p align="left">I have done my graduation in Systems Analysis in 2018. I have given a break in my career from January/2021 to August/2024 to dedicate work in other areas like digital marketing and ads.<br><br>In August 2024 I start to study Ruby on Rails and now I'm putting all my efforts to learn this fantastic language programming.<br><br>📋Hard Skills:<br><br>✅ Ruby on Rails<br>✅ CI/CD<br>✅ Sidekiq<br>✅ Redis<br>✅ PostgreSQL<br>✅ Docker<br>✅ Git<br>✅ Linux<br>✅ HTML5<br>✅ CSS3<br>✅ Javascript<br>✅ Bootstrap<br><br>📋Soft Skills:<br><br>✅ Fast learner<br>✅ Good communication<br>✅ Active listening<br>✅ Good organization and management<br>✅ Ethics<br>✅ Resilience<br>✅ Logical thinking and problem-solving</p>
+<p align="left">Back-end Developer specialized in Ruby on Rails
+
+I always ask for myself about how everything works in the background and I felt attracted to the I.T area, to know how the softwares works.
+
+I'm focused to develope scalable and robust systems using Ruby on Rails and my objetive is not only "write lines of code" but automaticate the problem solution through software development.
+
+Technical Abilities:
+- Core Back-end Technologies: Ruby, Ruby on Rails, CI/CD, Sidekiq, Docker.
+- Front-end Technologies: HTML, CSS, Javascript, Bootstrap
+- Data Management: SQL(PostgreSQL)
+- Cloud and CI/CD Tools: Git(Github), CI/CD
+- Additional Skills: Linux
+
+Personal Qualities:
+- Fast Learning
+- Good communication
+- Active listening
+- Good organization and management
+- Ethics
+- Resilience
+- Logical Thinking and problem-solving
 
 ###
 
