@@ -45,7 +45,7 @@ I always ask myself about how everything works in the background and I felt attr
 I'm focused on developing scalable and robust systems using Ruby on Rails and my objective is not only “to write lines of code" but automaticate the problem solution through software development.
 
 Technical Abilities:
-- Core Back-end Technologies: Ruby, Ruby on Rails, CI/CD, Sidekiq, Docker.
+- Core Back-end Technologies: Ruby, Ruby on Rails, CI/CD, Sidekiq, RSpec, Docker.
 - Front-end Technologies: HTML, CSS, Javascript, Bootstrap
 - Data Management: SQL(PostgreSQL)
 - Cloud and CI/CD Tools: Git(Github), CI/CD
