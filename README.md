@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Éder and I'm a Back-end Developer.</h2>
+<h2 align="left">Hi 👋! My name is Éder and I'm a Ruby on Rails Developer.</h2>
 
 ###
 
