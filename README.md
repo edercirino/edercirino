@@ -44,7 +44,7 @@ I'm focused on developing scalable and robust systems using Ruby on Rails and my
 
 Technical Abilities:
 - Core Back-end Technologies: Ruby, Ruby on Rails, CI/CD, Sidekiq, RSpec, Capybara Docker.
-- Front-end Technologies: HTML, CSS, Javascript, Bootstrap
+- Front-end Technologies: React, Tailwindcss, Bootstrap
 - Data Management: SQL(PostgreSQL)
 - Cloud and CI/CD Tools: Git(Github), CI/CD
 - Additional Skills: Linux
