@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Éder and I'm a Full Stack Developer.</h2>
+<h2 align="left">Hi 👋! My name is Éder and I'm a Back-end Developer.</h2>
 
 ###
 
@@ -38,9 +38,13 @@
 
 <p align="left">Back-end Developer specialized in Ruby on Rails
 
-I always ask myself about how everything works in the background and I felt attracted to the I.T area, to know how the softwares works.
+Back-end Developer with a background in IT consulting and a growing specialization in Ruby on Rails development.
 
-I'm focused on developing scalable and robust systems using Ruby on Rails and my objective is not only “to write lines of code" but automaticate the problem solution through software development.
+Since 2020, I have been contributing to business improvement through technology, first by optimizing internal systems and infrastructure, and later by designing and developing custom web applications.
+
+Currently, I focus on building efficient and scalable solutions using Ruby on Rails, PostgreSQL, Docker, following best practices such as testing with RSpec, background processing with Sidekiq, and deployment automation with CI/CD.
+
+My goal is to contribute to projects that combine innovation, quality, and real business impact. Open to remote opportunities with international teams.
 
 Technical Abilities:
 - Core Back-end Technologies: Ruby, Ruby on Rails, CI/CD, Sidekiq, RSpec, Capybara Docker.
