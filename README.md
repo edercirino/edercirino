@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">Back-end Developer specialized in Ruby on Rails
+<p align="left">
 
 Back-end Developer with a background in IT consulting and a growing specialization in Ruby on Rails development.
 
