@@ -1,88 +1,36 @@
-<h2 align="left">Hi 👋! My name is Éder and I'm a Back-end Developer.</h2>
+# Hi, I'm Éder 👋
 
-###
+I'm an programming enthusiastic mechanic from Brazil.
 
-<img align="right" height="162" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRkem96em5idXl5c3MycXk3czZieTN6cDQ3ZGh2MWE1ZXdsd2ZveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/keTwQbbQwlNM2RNJsW/giphy.gif"  />
+Programming is currently a hobby and a way to build practical solutions for my own work. I'm studying web development while developing a workshop management system from the ground up.
 
-###
+## Currently learning
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edercirino&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- SQL
 
-###
+## Current project
 
-<h3 align="left">My Stack👇</h3>
+🚗 Mini ERP for an automotive workshop
 
-###
+Started as a budget generator and gradually evolving into a complete management system.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="50" alt="rails logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="50"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-</div>
+Planned modules:
 
-###
+- Budget
+- Customers
+- Vehicles
+- Products
+- Inventory
+- Work Orders
+- Financial
+- Reports
 
-<h3 align="left">👀 About me:</h3>
+## Goals
 
-###
-
-<p align="left">
-
-Back-end Developer with a background in IT consulting and a growing specialization in Ruby on Rails development.
-
-Since 2020, I have been contributing to business improvement through technology, first by optimizing internal systems and infrastructure, and later by designing and developing custom web applications.
-
-Currently, I focus on building efficient and scalable solutions using Ruby on Rails, PostgreSQL, Docker, following best practices such as testing with RSpec, background processing with Sidekiq, and deployment automation with CI/CD.
-
-My goal is to contribute to projects that combine innovation, quality, and real business impact. Open to remote opportunities with international teams.
-
-Technical Abilities:
-- Core Back-end Technologies: Ruby, Ruby on Rails, CI/CD, Sidekiq, RSpec, Capybara Docker.
-- Front-end Technologies: React, Tailwindcss, Bootstrap
-- Data Management: SQL(PostgreSQL)
-- Cloud and CI/CD Tools: Git(Github), CI/CD
-- Additional Skills: Linux
-
-Personal Qualities:
-- Fast Learning
-- Good communication
-- Active listening
-- Good organization and management
-- Ethics
-- Resilience
-- Logical Thinking and problem-solving
-
-###
-
-<h3 align="center">Snake in action!</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/edercirino/edercirino/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h3 align="center">Get in touch with me! 👇</h3>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/edercirino/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:ederdevbr@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+- Improve software development skills
+- Build projects based on real business needs
+- Learn by developing a real application
