@@ -1,6 +1,6 @@
 # Hi, I'm Éder 👋
 
-I'm an programming enthusiastic mechanic from Brazil.
+I'm an programming enthusiastic from Brazil.
 
 Programming is currently a hobby and a way to build practical solutions for my own work. I'm studying web development while developing a workshop management system from the ground up.
 
