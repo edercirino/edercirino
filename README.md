@@ -2,7 +2,7 @@
 
 I'm an automotive air conditioning mechanic from Brazil.
 
-Programming is currently a hobby and a way to build practical solutions for my own work. I'm studying web development while developing a workshop management system from the ground up.
+Programming is currently a hobby and a way to build practical solutions for my own work. I'm studying web development while developing a auto repair shop management system from the ground up.
 
 ## Currently learning
 
@@ -14,7 +14,7 @@ Programming is currently a hobby and a way to build practical solutions for my o
 
 ## Current project
 
-🚗 Mini ERP for an automotive workshop
+🚗 ERP for an auto repair shop
 
 Started as a budget generator and gradually evolving into a complete management system.
 
